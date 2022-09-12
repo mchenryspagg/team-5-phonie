@@ -89,8 +89,8 @@ More projects would be completed both as a team and as individuals.
 5. Umeh Cassandra - [Email](mailto:umehcassandra@gmail.com)
 6. Zainab Aderimo - [Email](mailto:zainabaderinmola@gmail.com)
 7. Sarah Aligbe - [Email](mailto:sarahligbe12@gmail.com)
-8. Christiana
-9. Omoruyi Osakue Emmanuel
+8. Christiana - [Email](mailto:christianahadekanye@gmail.com)
+9. Omoruyi Osakue Emmanuel - [Email](mailto:osakueomoruyi@gmail.com)
 
 ## Acknowledgments
 Special thanks to all the team members that contributed immeasurably to bring about the completion of this project. Special shoutout to AltschoolAfrica for the project brief, and also a special shoutout to the Tech Hub Slack community comprising of young passionate tech newbies and intermediate professionals striving to become worldclass software engineers through collaboration, knowledge sharing and motivating one another.
